@@ -25,3 +25,7 @@
 - I2Sマイク(ラズパイピコ) https://github.com/ArmDeveloperEcosystem/microphone-library-for-pico?tab=readme-ov-file
 - I2Sアンプ(ラズパイピコ) https://zenn.dev/nanase_t/articles/0a60fc38c52d5d
 - リードスイッチ https://zenn.dev/megeton/articles/fb5c97170268ac
+- フレックス・センサー（Flex/曲げセンサー）の自作 https://dorompa.tokyo/hide-out/blog/2018/05/19/how-to-make-flex-sensor/
+- Raspberry Pi Pico et nRF24L01 (MicroPython) https://electroniqueamateur.blogspot.com/2022/02/raspberry-pi-pico-et-nrf24l01.html
+- nrf24l01.py https://github.com/micropython/micropython-lib/blob/master/micropython/drivers/radio/nrf24l01/nrf24l01.py
+-  NRF24L01 技適 https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14286142104
