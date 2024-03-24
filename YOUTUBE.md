@@ -6,6 +6,8 @@
 
 - [プリント基板に大電流を流した結果... 1mm幅に1Aは本当か。](https://www.youtube.com/watch?v=JmKn_Fe4ZmQ)
 
+- [この回路の動作を説明できますか？【イチケン電子基礎シリーズ】: 非安定マルチバイブレータ](https://www.youtube.com/watch?v=xjkZtUyIt7I)
+
 - [【誰でもわかる！】電波とは？電波が飛ぶ仕組み・原理を世界一わかりやすく超説明！(無線通信の仕組み) #無線 #電波](https://www.youtube.com/watch?v=1SnVORaWw98)
 
 - [アンテナの仕組みとは？](https://www.youtube.com/watch?v=RwT0uOx_aww)
@@ -27,3 +29,21 @@
 - [【ゆっくり解説】身の回りの電磁波を全て解説！](https://www.youtube.com/watch?v=TGj9VqZVmDU)
 
 - [【電験３種】電流の流れるスピードはアリよりも遅い！？](https://www.youtube.com/watch?v=XQyqN5LLygo)
+
+- [リレーやトランジスタやICで全加算器を作った](https://qiita.com/recuraki/items/2431d44499c81485326b)
+
+- [Nvidia Reveals Project GROOT and Disney Robots at GTC Conference](https://www.youtube.com/watch?v=51TYhPJ4zys)
+
+- [new edge GPU chip designed to power GR00T](https://twitter.com/i/status/1769860044324319658)
+
+- [NVIDIAが「日本の量子コンピューター研究を支援」「人型ロボット基盤モデルを強化」「創薬向けAIサービス」「自動車向けAIチップの提供拡大」などをGTC 2024で発表](https://gigazine.net/news/20240319-nvidia-gtc-2024-summary/)
+
+- [ブレッドボードを使った電子工作を紹介します。](http://okgnz.web.fc2.com/plybd/index.htm)
+
+- [【センサで電子工作】Raspberry Pi Pico×温度センサで室温測定【Python入門】](https://www.youtube.com/watch?v=K0QBPETq234)
+
+- [こんなインチキ臭い電子回路が本当に動くのか？検証しました[JLCPCB]](https://www.youtube.com/watch?v=vVREoi2sZIM&t=474s)
+  
+- [【電子工作 回路編32】LED点灯の簡単な遅延回路（ディレイ回路）](https://www.youtube.com/watch?v=3STWkhp0IKY&t=89s)
+
+- [サーボモーターマイコンなし](https://www.youtube.com/watch?v=bqPu3Mul2Q4)
