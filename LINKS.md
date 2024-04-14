@@ -40,3 +40,4 @@
 - 加速度センサによる移動距離算出 https://qiita.com/c01193557b/items/5f90a690b562304bff42
 - NES Emulator for RP2040 DVI Boards https://www.digikey.com/en/maker/projects/nes-emulator-for-rp2040-dvi-boards/43ad7949adab49019ce5581003492dce
 - 「どこでケーブルが曲がったか」を知ることができるセンサーが開発される https://gigazine.net/news/20240412-optigap-sensor-system/
+- ラズパイPicoW Wi-Fi通信、遠隔操作＆表示 MicroPython編 https://logikara.blog/picow-server-micropy/

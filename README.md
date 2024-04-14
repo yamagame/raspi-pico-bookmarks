@@ -18,6 +18,8 @@
 
 - [MicroPython ドキュメンテーション](https://micropython-docs-ja.readthedocs.io/ja/latest/index.html)
 
+- [picozero: A beginner-friendly library](https://picozero.readthedocs.io/en/latest/index.html)
+
 - [Raspberry Pi Pico でプッシュボタンのチャタリングを上手く処理してみた](https://backy0175.seesaa.net/article/490399779.html)
 
 - [MicroPythonでI2Sにより音楽を再生 I2S Player](https://github.com/kemusiro/i2splayer)
