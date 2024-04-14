@@ -14,3 +14,5 @@
 - [llama.cpp の動かし方と量子化手法](https://zenn.dev/turing_motors/articles/f5f19f875bd8ba)
 
 - [最新の Google Gemma モデルを MLX を使ってローカルでファインチューニング](https://note.com/alexweberk/n/n96cc4c8ac174)
+
+- [Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://mobile-aloha.github.io/)
