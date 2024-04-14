@@ -1,0 +1,16 @@
+- [SakanaAI](https://github.com/SakanaAI/evolutionary-model-merge/)
+- [rinna、日本語に特化した36億パラメータのGPT言語モデルを公開](https://rinna.co.jp/news/2023/05/20230507.html)
+- [ESPnet: end-to-end speech processing toolkit](https://github.com/espnet/espnet)
+- [stable-diffusion](https://ja.stability.ai/stable-diffusion)
+- [ChatGPT](https://chat.openai.com/auth/login)
+- [ReazonSpeech](https://research.reazon.jp/projects/ReazonSpeech/index.html)
+- [NVIDIA NeMo Framework](https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/starthere/intro.html)
+
+- [onnxruntime](https://onnxruntime.ai/)
+- [huggingface](https://huggingface.co/)
+- [pytorch](https://pytorch.org/)
+- [MLX](https://ml-explore.github.io/mlx/build/html/index.html)
+- [llama.cpp](https://github.com/ggerganov/llama.cpp)
+- [llama.cpp の動かし方と量子化手法](https://zenn.dev/turing_motors/articles/f5f19f875bd8ba)
+
+- [最新の Google Gemma モデルを MLX を使ってローカルでファインチューニング](https://note.com/alexweberk/n/n96cc4c8ac174)

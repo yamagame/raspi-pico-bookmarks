@@ -28,4 +28,15 @@
 - フレックス・センサー（Flex/曲げセンサー）の自作 https://dorompa.tokyo/hide-out/blog/2018/05/19/how-to-make-flex-sensor/
 - Raspberry Pi Pico et nRF24L01 (MicroPython) https://electroniqueamateur.blogspot.com/2022/02/raspberry-pi-pico-et-nrf24l01.html
 - nrf24l01.py https://github.com/micropython/micropython-lib/blob/master/micropython/drivers/radio/nrf24l01/nrf24l01.py
--  NRF24L01 技適 https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14286142104
+- NRF24L01 技適 https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14286142104
+- ラズベリーパイのレシピ https://zenn.dev/kotaproj/books/raspberrypi-tips
+- Raspberry Pi Pico W を使ってA2DPでBluetoothスピーカーを鳴らす https://github.com/tanep3/PicoW_Play_Bluetooth_speaker_with_A2DP
+- Raspberry Pi Pico Wのゴミ箱センサー https://zenn.dev/team_delta/articles/3ee759ceda3092
+- RaspberryPiを利用した勤怠打刻システムからSlackへのリアルタイム通知 https://www.a-frontier.jp/technology/iot02/
+- [Python]Raspberry Pico wで自動餌やり機作って見た https://note.com/vast_nerine96/n/n286665788c20
+- ラズパイ×Slackで不審者撃退 https://protopedia.net/prototype/3430
+- ホチキスでつくる LED 電子工作 https://noroshigeki.web.fc2.com/mokuji5/led4syu.pdf
+- ホッチキスで かんたん電子工作 流れる光跡！LEDで光る刀 https://www.youtube.com/watch?v=jSozJW_L920
+- 加速度センサによる移動距離算出 https://qiita.com/c01193557b/items/5f90a690b562304bff42
+- NES Emulator for RP2040 DVI Boards https://www.digikey.com/en/maker/projects/nes-emulator-for-rp2040-dvi-boards/43ad7949adab49019ce5581003492dce
+- 「どこでケーブルが曲がったか」を知ることができるセンサーが開発される https://gigazine.net/news/20240412-optigap-sensor-system/
