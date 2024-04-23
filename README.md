@@ -4,6 +4,8 @@
 
 ## ブックマーク
 
+- [スライド: 発明の話](https://docs.google.com/presentation/d/1a0JdgCR5zit6w5SsmEynLuPBtVrVL7p8uXTp_5Ft1G0/edit?usp=sharing)
+
 - [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
 - [Raspberry Pi Documentation: MicroPython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html#what-is-micropython)
