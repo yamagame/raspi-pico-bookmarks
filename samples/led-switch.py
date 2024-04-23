@@ -5,7 +5,7 @@ from machine import Pin
 import time
 
 button = Pin(16, Pin.IN, Pin.PULL_DOWN)
-led = Pin(25, Pin.OUT)
+led = Pin('LED', Pin.OUT)
 
 while True:
     if button.value():
