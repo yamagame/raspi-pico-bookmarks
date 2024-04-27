@@ -16,3 +16,13 @@
 - [最新の Google Gemma モデルを MLX を使ってローカルでファインチューニング](https://note.com/alexweberk/n/n96cc4c8ac174)
 
 - [Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://mobile-aloha.github.io/)
+
+- [世界第2位の雇用者であるAmazonが75万台のロボットで10万人の人間を置換、「AIによる労働の変化の縮図」との指摘](https://gigazine.net/news/20240423-amazon-robots-replaces-humans/)
+
+- [Metaが次世代のオープンLLM「Llama 3」を公開、無料で商用利用可能なモデルの中では過去最高の性能](https://gigazine.net/news/20240419-meta-llama-3/)
+- [Microsoftが顔写真と音声ファイルからリアルに話す映像を作成できるAIモデル「VASA-1」公開](https://gigazine.net/news/20240419-microsoft-vasa-1/)
+
+- [日本語対応でGPT-4よりも高性能な大規模言語モデル「Command R＋」が登場したので使ってみた、無料でダウンロードしてローカル動作も可能](https://gigazine.net/news/20240408-command-r-plus-cohere-llm/)
+- [Command-R (35B)をMac(MLX)でローカルで動かしてAPIサーバにする](https://zenn.dev/romot/articles/d2cbe75743eebe)
+
+- [ボストン・ダイナミクスが人型ロボット「Atlas」を完全電動でリニューアル](https://gigazine.net/news/20240418-all-new-atlas-boston-dynamics/)
