@@ -42,3 +42,4 @@
 - 「どこでケーブルが曲がったか」を知ることができるセンサーが開発される https://gigazine.net/news/20240412-optigap-sensor-system/
 - ラズパイPicoW Wi-Fi通信、遠隔操作＆表示 MicroPython編 https://logikara.blog/picow-server-micropy/
 - 「すずめの戸締まり」に登場の“3本脚の椅子”を再現したロボット　東大が開発　歩行し倒れても起き上がる https://www.itmedia.co.jp/aiplus/articles/2404/17/news048.html
+- LOW POLY PENGUIN PUZZLE https://cults3d.com/en/3d-model/art/low-poly-penguin-puzzle

@@ -28,3 +28,5 @@
 - [次元が違う！驚きの発明品](https://www.youtube.com/watch?v=gjzDqeM0fxo)
 - [超時空要塞マクロス VF-1 VALKYRIE VF-1 バルキリー -ファイターモード- ダイキャストギミックモデルをつくる - ギミック紹介 - 【アシェット・コレクションズ・ジャパン】](https://www.youtube.com/watch?v=9QF9I1O1LOk)
 - [ガチで動く横浜ガンダム 1/48 プラモ起動実験 ノーカット未編集映像（収益化オフ）](https://www.youtube.com/watch?v=epGFdoC87Js)
+- [東京駅 プロジェクトマッピング](https://www.youtube.com/watch?v=xHsbdq8GtKc)
+- [東京都庁で巨大プロジェクションマッピング　「世界最大」ギネス認定](https://www.youtube.com/watch?v=Tk-aSF18FCg)
