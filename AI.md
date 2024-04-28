@@ -26,3 +26,4 @@
 - [Command-R (35B)をMac(MLX)でローカルで動かしてAPIサーバにする](https://zenn.dev/romot/articles/d2cbe75743eebe)
 
 - [ボストン・ダイナミクスが人型ロボット「Atlas」を完全電動でリニューアル](https://gigazine.net/news/20240418-all-new-atlas-boston-dynamics/)
+- [Stability AI、スケッチを高度な画像に変換する「Stable Doodle」無償公開](https://www.itmedia.co.jp/news/articles/2307/14/news126.html)
