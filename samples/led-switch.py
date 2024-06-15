@@ -4,8 +4,11 @@
 from machine import Pin
 import time
 
-button = Pin(16, Pin.IN, Pin.PULL_DOWN)
-led = Pin('LED', Pin.OUT)
+BTN_PIN = 16
+LED_PIN = 'LED'
+
+button = Pin(BTN_PIN, Pin.IN, Pin.PULL_DOWN)
+led = Pin(LED_PIN, Pin.OUT)
 
 while True:
     if button.value():

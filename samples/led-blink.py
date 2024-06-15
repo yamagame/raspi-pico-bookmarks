@@ -4,7 +4,9 @@
 import machine
 import utime
 
-pwm = machine.PWM(machine.Pin('LED'))
+LED_PIN = 'LED'
+
+pwm = machine.PWM(machine.Pin(LED_PIN))
 pwm.freq(100)
 x = 0.5
 dx = 0.01

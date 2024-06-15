@@ -4,10 +4,13 @@
 #
 from machine import Pin, PWM
 
-pwm = PWM(Pin(16))
+PWM_PIN = 16
+ADC0_PIN = 0  # GP26(31番ピン)
+
+pwm = PWM(Pin(PWM_PIN))
 pwm.freq(50)
 
-sensor_adc = machine.ADC(0)
+sensor_adc = machine.ADC(ADC0_PIN)
 
 
 def servo_value(degree):

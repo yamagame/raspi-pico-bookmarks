@@ -5,17 +5,17 @@
 from machine import Pin, ADC, PWM
 from time import sleep
 
-A_1A_pin = 16                 # Motor drive module
-Pot_pin = 0                   # ADC0 multiplexing pin is GP26
+MOT_PIN = 16                 # L9110S Motor Drive Module
+POT_PIN = 0                  # ADC0 multiplexing pin is GP26
 
 
 def setup():
     global A_1A
     global pot_ADC
 
-    A_1A = PWM(Pin(A_1A_pin))
+    A_1A = PWM(Pin(MOT_PIN))
     A_1A.freq(1000)  # Set the driver operating frequency to 1K
-    pot_ADC = ADC(Pot_pin)
+    pot_ADC = ADC(POT_PIN)
 
 
 def loop():

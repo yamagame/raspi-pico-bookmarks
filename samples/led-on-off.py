@@ -4,7 +4,9 @@
 import machine
 import utime
 
-led = machine.Pin('LED', machine.Pin.OUT)
+LED_PIN = 'LED'
+
+led = machine.Pin(LED_PIN, machine.Pin.OUT)
 
 while True:
     led.value(1)

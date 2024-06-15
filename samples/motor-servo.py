@@ -5,7 +5,9 @@
 from machine import PWM, Pin
 from time import sleep
 
-servo = PWM(Pin(16))
+PWM_PIN = 16
+
+servo = PWM(Pin(PWM_PIN))
 servo.freq(50)
 
 angle_0 = int(2.5 / 20 * 65536)
