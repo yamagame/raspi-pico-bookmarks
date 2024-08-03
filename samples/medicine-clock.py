@@ -16,6 +16,8 @@ SW_PIN = 21
 LED_PIN = 'LED'
 MOD_PIN = 16
 
+SW_ON = 0
+
 active = True
 
 blue_led = Pin(BLUE_LED, Pin.OUT)
@@ -115,7 +117,7 @@ def addtime(dt1, deltasec):
 
 
 def nexttime(pushedtime):
-    is_debug = mod.value() == 0
+    is_debug = mod.value() == SW_ON
     if is_debug:
         # デバッグモードは10秒でタイムアウト
         return addtime(parsetime(pushedtime), 10)
@@ -131,7 +133,7 @@ def checkbutton(timestamp):
     pushedtime = read_eeprom(14)
     if int(nexttime(pushedtime)) < int(timestamp):
         active = False
-    if not active and sw.value() == 0:
+    if not active and sw.value() == SW_ON:
         active = True
         tim = Timer()
         beat_i = 0
