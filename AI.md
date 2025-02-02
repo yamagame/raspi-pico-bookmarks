@@ -24,6 +24,12 @@
 
 - [日本語対応でGPT-4よりも高性能な大規模言語モデル「Command R＋」が登場したので使ってみた、無料でダウンロードしてローカル動作も可能](https://gigazine.net/news/20240408-command-r-plus-cohere-llm/)
 - [Command-R (35B)をMac(MLX)でローカルで動かしてAPIサーバにする](https://zenn.dev/romot/articles/d2cbe75743eebe)
+- [まるで“いけない話ができるChatGPT”　ローカルAI「Command R+」の爆発的な可能性](https://ascii.jp/elem/000/004/198/4198080/)
 
 - [ボストン・ダイナミクスが人型ロボット「Atlas」を完全電動でリニューアル](https://gigazine.net/news/20240418-all-new-atlas-boston-dynamics/)
 - [Stability AI、スケッチを高度な画像に変換する「Stable Doodle」無償公開](https://www.itmedia.co.jp/news/articles/2307/14/news126.html)
+- [インストール不要でLlama 3やMistralなどオープンソースLLMをブラウザで動かせるチャットボット「Secret Llama」が登場](https://gigazine.net/news/20240508-secret-llama/)
+
+- [Cobra is a highly-accurate and lightweight voice activity detection (VAD) engine.](https://github.com/Picovoice/cobra)
+- [Silero VAD - pre-trained enterprise-grade Voice Activity Detector](https://github.com/snakers4/silero-vad)
+- [Introducing Stable Audio Open - An Open Source Model for Audio Samples and Sound Design](https://stability.ai/news/introducing-stable-audio-open)

@@ -14,7 +14,7 @@ BLUE_LED = 8  # 11
 PWM_PIN = 20
 SW_PIN = 21
 LED_PIN = 'LED'
-MOD_PIN = 16
+MOD_PIN = 16  # テストモード切り替えボタン
 
 SW_ON = 0
 
@@ -99,6 +99,13 @@ def parsetime(timestamp):
         hour = int(r.group(4))
         minute = int(r.group(5))
         second = int(r.group(6))
+        if year < 2024:
+            year = 2024
+            month = 1
+            day = 1
+            hour = 0
+            minute = 0
+            second = 0
         return datetime.datetime(
             year=year, month=month, day=day,
             hour=hour, minute=minute, second=second

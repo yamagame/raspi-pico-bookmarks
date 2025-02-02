@@ -30,3 +30,5 @@
 - [ガチで動く横浜ガンダム 1/48 プラモ起動実験 ノーカット未編集映像（収益化オフ）](https://www.youtube.com/watch?v=epGFdoC87Js)
 - [東京駅 プロジェクトマッピング](https://www.youtube.com/watch?v=xHsbdq8GtKc)
 - [東京都庁で巨大プロジェクションマッピング　「世界最大」ギネス認定](https://www.youtube.com/watch?v=Tk-aSF18FCg)
+- [大規模言語モデルの開発](https://speakerdeck.com/chokkan/jsai2024-tutorial-llm)
+- [『フカシギの数え方』 おねえさんといっしょ！ みんなで数えてみよう！](https://youtu.be/Q4gTV4r0zRs)

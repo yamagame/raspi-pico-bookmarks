@@ -43,3 +43,11 @@
 - ラズパイPicoW Wi-Fi通信、遠隔操作＆表示 MicroPython編 https://logikara.blog/picow-server-micropy/
 - 「すずめの戸締まり」に登場の“3本脚の椅子”を再現したロボット　東大が開発　歩行し倒れても起き上がる https://www.itmedia.co.jp/aiplus/articles/2404/17/news048.html
 - LOW POLY PENGUIN PUZZLE https://cults3d.com/en/3d-model/art/low-poly-penguin-puzzle
+- カズヤシバタ: invention https://www.seevua.com/invention
+- ちいくじ工作教室へようこそ https://chiikuji.com/
+- わりばし工作 回る観覧車の作り方 https://www.youtube.com/watch?app=desktop&v=gYn9RnhKWLQ
+- ESP32にBluetooth3.0のキーボードをつなげる https://qiita.com/poruruba/items/a90c117fb13e23b55c5f
+- BluetoothのシャッターボタンとRaspberry Pi PICO W の接続 https://www.youtube.com/watch?v=DrwTmrqhjnc
+- #22 ゲームパッドでRaspberry Pi PicoWを操作しよう https://www.youtube.com/watch?v=WHLCnej2iQo
+- Create a USB Microphone with the Raspberry Pi Pico https://www.hackster.io/sandeep-mistry/create-a-usb-microphone-with-the-raspberry-pi-pico-cc9bd5#toc-hardware-setup-5
+- Create a game with React Three Fiber https://www.wawasensei.dev/tuto/react-three-fiber-tutorial-hiragana-katakana-game

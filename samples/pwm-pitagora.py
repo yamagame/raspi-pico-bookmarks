@@ -4,7 +4,7 @@
 #
 from machine import Pin, PWM, Timer
 
-PWM_PIN = 16
+PWM_PIN = 20
 LED_PIN = 'LED'
 
 speaker = PWM(Pin(PWM_PIN, Pin.OUT))  # スピーカーを接続しているGPIOを作成し、それをPWM()へ渡す

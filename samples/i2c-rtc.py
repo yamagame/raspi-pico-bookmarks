@@ -2,7 +2,8 @@ from machine import I2C, Pin
 from urtc import DS1307
 import utime
 
-i2c = I2C(0, scl=Pin(1), sda=Pin(0), freq=800000)
+# i2c = I2C(0, scl=Pin(1), sda=Pin(0), freq=400000)
+i2c = I2C(1, scl=Pin(3), sda=Pin(2), freq=400000)
 rtc = DS1307(i2c)
 
 LED_PIN = 'LED'
