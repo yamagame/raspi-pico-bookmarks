@@ -4,7 +4,7 @@
 #
 from machine import Pin, PWM
 
-PWM_PIN = 16
+PWM_PIN = 'GP16'
 ADC0_PIN = 0  # GP26(31番ピン)
 
 pwm = PWM(Pin(PWM_PIN))
@@ -13,9 +13,9 @@ pwm.freq(50)
 sensor_adc = machine.ADC(ADC0_PIN)
 
 
-def servo_value(degree):
-    return int((degree * 9.5 / 180 + 2.5) * 65535 / 100)
+def angle(degree):
+    return int((degree * 0.097 / 180 + 0.025) * 65535)
 
 
 while True:
-    pwm.duty_u16(servo_value(sensor_adc.read_u16() * 180 / 65535))
+    pwm.duty_u16(angle(sensor_adc.read_u16() * 180 / 65535))

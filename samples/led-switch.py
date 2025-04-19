@@ -4,13 +4,18 @@
 from machine import Pin
 import time
 
-BTN_PIN = 16
-LED_PIN = 'LED'
+SW_PIN = 'GP21'
 
-button = Pin(BTN_PIN, Pin.IN, Pin.PULL_DOWN)
-led = Pin(LED_PIN, Pin.OUT)
+LED_PIN = 'GP5'
+
+led = machine.Pin(LED_PIN, machine.Pin.OUT)
+
+sw = Pin(SW_PIN, Pin.IN, Pin.PULL_UP)
+prevsw = sw.value()
 
 while True:
-    if button.value():
+    swval = sw.value()
+    if prevsw != swval and swval:
         led.toggle()
-        time.sleep(0.5)
+    prevsw = swval
+    time.sleep(0.1)

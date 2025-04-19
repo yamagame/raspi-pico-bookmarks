@@ -4,7 +4,7 @@
 import machine
 import utime
 
-LED_PIN = 'LED'
+LED_PIN = 'GP5'
 
 led = machine.Pin(LED_PIN, machine.Pin.OUT)
 
