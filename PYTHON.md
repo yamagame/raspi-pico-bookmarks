@@ -9,3 +9,7 @@
 - [MicroPython ドキュメンテーション](https://micropython-docs-ja.readthedocs.io/ja/latest/index.html)
 
 - [Wokwi Raspberry Pi Pico Simulator](https://wokwi.com/pi-pico)
+
+- [Pyxel README.ja.md](https://github.com/kitao/pyxel/blob/main/docs/README.ja.md)
+
+- [Pyxel Studio](https://www.pyxelstudio.net/)
