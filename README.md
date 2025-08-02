@@ -55,3 +55,6 @@
 - [Raspberry pi pico のGPIOからモーターを回したいです.: 失敗例](https://teratail.com/questions/34q5g257dw8u2q)
 
 - [電流の速さは？｜電気の疑問シリーズ６](http://net-o.co.jp/current-speed/)
+
+- [ΡΟΠΗ for Raspberry Pi Pico (RP2040 NTSC Video)](https://github.com/KenKenMkIISR/ROPE-RP2040)
+ 

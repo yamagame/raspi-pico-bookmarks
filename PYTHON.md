@@ -10,6 +10,14 @@
 
 - [Wokwi Raspberry Pi Pico Simulator](https://wokwi.com/pi-pico)
 
+- [ChatGPT](https://chatgpt.com/)
+
 - [Pyxel README.ja.md](https://github.com/kitao/pyxel/blob/main/docs/README.ja.md)
 
 - [Pyxel Studio](https://www.pyxelstudio.net/)
+
+- [SampleGame: Copilot-Shooter](https://github.com/yamagame/copilot-shooter)
+
+- [Piper Make](https://make.playpiper.com/)
+
+- [BIPES: Block based Integrated Platform for Embedded Systems](https://bipes.net.br/pico/ui/)
