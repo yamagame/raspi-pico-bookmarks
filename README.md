@@ -59,3 +59,6 @@
 - [ΡΟΠΗ for Raspberry Pi Pico (RP2040 NTSC Video)](https://github.com/KenKenMkIISR/ROPE-RP2040)
  
 - [pico-jxglib で Pico ボードに USB ゲームパッドを接続してゲームを楽しむ話](https://zenn.dev/ypsitau/articles/2025-04-23-usbhost-gamepad)
+
+- [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython)
+
